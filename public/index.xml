@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Sonification</title>
+    <link>https://example.org/</link>
+    <description>Recent content on Data Sonification</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Feb 2018 14:30:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Next Steps</title>
+      <link>https://example.org/page/next-steps/</link>
+      <pubDate>Sun, 18 Feb 2018 14:30:00 -0500</pubDate>
+      
+      <guid>https://example.org/page/next-steps/</guid>
+      <description> Ideas for next steps inlude  Further refinement of existing sonification techniques Exploration of further sonification techniques and musical patterns that can be employed for auditory representation of data Website expansion, including a user-interactive interface which allows the user to upload data, select instruments, and create their own sonified datasets Publication  </description>
+    </item>
+    
+    <item>
+      <title>Sonification of Levels in North American Male Patients: Renal Research Institute</title>
+      <link>https://example.org/page/north-america-male-rri/</link>
+      <pubDate>Sun, 18 Feb 2018 14:28:00 -0500</pubDate>
+      
+      <guid>https://example.org/page/north-america-male-rri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sonification of Levels in North American Female Patients: Renal Research Institute</title>
+      <link>https://example.org/page/north-america-female-rri/</link>
+      <pubDate>Sun, 18 Feb 2018 14:26:00 -0500</pubDate>
+      
+      <guid>https://example.org/page/north-america-female-rri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sonification of Levels in European Male Patients: Fresenius Medical Care &amp; Kuratorium fur Dialyse und Nierentransplantation e.V.</title>
+      <link>https://example.org/page/europe-male-all/</link>
+      <pubDate>Sun, 18 Feb 2018 14:24:00 -0500</pubDate>
+      
+      <guid>https://example.org/page/europe-male-all/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sonification of Levels in European Female Patients: Fresenius Medical Care &amp; Kuratorium fur Dialyse und Nierentransplantation e.V.</title>
+      <link>https://example.org/page/europe-female-all/</link>
+      <pubDate>Sun, 18 Feb 2018 14:22:00 -0500</pubDate>
+      
+      <guid>https://example.org/page/europe-female-all/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sonification of Levels in European Male Patients: Kuratorium fur Dialyse und Nierentransplantation e.V.</title>
+      <link>https://example.org/page/europe-male-kfh/</link>
+      <pubDate>Sun, 18 Feb 2018 14:20:00 -0500</pubDate>
+      
+      <guid>https://example.org/page/europe-male-kfh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sonification of Levels in European Female Patients: Kuratorium fur Dialyse und Nierentransplantation e.V.</title>
+      <link>https://example.org/page/europe-female-kfh/</link>
+      <pubDate>Sun, 18 Feb 2018 14:18:00 -0500</pubDate>
+      
+      <guid>https://example.org/page/europe-female-kfh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sonification of Levels in European Male Patients: Fresenius Medical Care</title>
+      <link>https://example.org/page/europe-male-fmc/</link>
+      <pubDate>Sun, 18 Feb 2018 14:16:00 -0500</pubDate>
+      
+      <guid>https://example.org/page/europe-male-fmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sonification of Levels in European Female Patients: Fresenius Medical Care</title>
+      <link>https://example.org/page/europe-female-fmc/</link>
+      <pubDate>Sun, 18 Feb 2018 14:14:00 -0500</pubDate>
+      
+      <guid>https://example.org/page/europe-female-fmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Initial Musical Aims</title>
+      <link>https://example.org/page/musical-aims/</link>
+      <pubDate>Sun, 18 Feb 2018 14:12:00 -0500</pubDate>
+      
+      <guid>https://example.org/page/musical-aims/</guid>
+      <description>Music is an emotionally-charged medium. It has the power to elicit strong emotional reactions from the listener through various musical techniques and patterns. As listeners, our reactions to different musical sounds are a product of the musical culture with which we are familiar. For example, in the Western Classical tradition, major tonalities are associated with happiness, positivity, and optimism, whereas minor tonalities are associated with sadness, negativity, and pessimism. Similarly, consonance is associated with beauty, levity, and relief, whereas dissonance is associated with conflict, anger, and tension.</description>
+    </item>
+    
+    <item>
+      <title>About the Data</title>
+      <link>https://example.org/page/about-data/</link>
+      <pubDate>Sun, 18 Feb 2018 14:10:00 -0500</pubDate>
+      
+      <guid>https://example.org/page/about-data/</guid>
+      <description> Origin This data was taken from Interdialytic weight gain, systolic blood pressure, serum albumin, and C-reactive protein levels change in chronic dialysis patients prior to death (Usvyat et al., 2013)
+Data Manipulation and Music Generation  Took a 5-week rolling average to smooth out the data Re-scaled the values between 0 and 1 Presented the values in chronological order, representing weeks leading to death Assigned each clinical parameter to an instrument of a different type Created instrumentation files based on musical aims Algorithmically generated a musical sequence strictly based on the data presented, using the instrumentaion files created  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://example.org/page/next-steps/</loc>
+    <lastmod>2018-02-18T14:30:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/page/north-america-male-rri/</loc>
+    <lastmod>2018-02-18T14:28:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/page/north-america-female-rri/</loc>
+    <lastmod>2018-02-18T14:26:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/page/europe-male-all/</loc>
+    <lastmod>2018-02-18T14:24:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/page/europe-female-all/</loc>
+    <lastmod>2018-02-18T14:22:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/page/europe-male-kfh/</loc>
+    <lastmod>2018-02-18T14:20:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/page/europe-female-kfh/</loc>
+    <lastmod>2018-02-18T14:18:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/page/europe-male-fmc/</loc>
+    <lastmod>2018-02-18T14:16:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/page/europe-female-fmc/</loc>
+    <lastmod>2018-02-18T14:14:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/page/musical-aims/</loc>
+    <lastmod>2018-02-18T14:12:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/page/about-data/</loc>
+    <lastmod>2018-02-18T14:10:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/archives/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.org/</loc>
+    <lastmod>2018-02-18T14:30:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.org/page/</loc>
+    <lastmod>2018-02-18T14:30:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.org/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
