@@ -1,1 +1,1 @@
-<?php header( 'Location: /themes/hugo-tranquilpeak-theme/layouts/index.html' ) ;  ?>
+<?php header( 'Location: /index.html' ) ;  ?>
